@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - LevelBounds
+  - FX
+  - Enemy
+  - World
+  - NoMask
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacles
+  - Ground
+  - Player
+  - ObstaclesDoors
+  - NoPathfinding
+  - Enemies
+  - NoCollisions
+  - Hole
+  - MovingPlatform
+  - FallingPlatform
+  - Projectile
+  - Camera1
+  - Camera2
+  - Camera3
+  - Camera4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1798043625
+    locked: 0
+  - name: Ground
+    uniqueID: 2296623839
+    locked: 0
+  - name: Foreground
+    uniqueID: 1603220759
+    locked: 0
+  - name: GB_Layer1
+    uniqueID: 1553754761
+    locked: 0
+  - name: Characters
+    uniqueID: 47421343
+    locked: 0
+  - name: Tree
+    uniqueID: 961700441
+    locked: 0
+  - name: ---------------------
+    uniqueID: 2538233271
+    locked: 0
+  - name: GB_Default
+    uniqueID: 2463086893
+    locked: 0
+  - name: GB_Layer2
+    uniqueID: 4212706633
+    locked: 0
+  - name: GB_Object(Tree_House_Player_Dot)
+    uniqueID: 1787630645
+    locked: 0
+  - name: GB_TURM
+    uniqueID: 3629198415
+    locked: 0
+  - name: GB_FireFly
+    uniqueID: 866358679
+    locked: 0
+  - name: ---------------------1
+    uniqueID: 775760307
+    locked: 0
+  - name: NewGB_Default
+    uniqueID: 616142143
+    locked: 0
+  - name: NewGB_Layer1
+    uniqueID: 3282200919
+    locked: 0
+  - name: NewGB_Layer2
+    uniqueID: 1605990729
+    locked: 0
+  - name: NewGB_TURM
+    uniqueID: 1693351677
+    locked: 0
+  - name: NewGB_FireFly
+    uniqueID: 873992387
+    locked: 0
+  - name: ---------------------2
+    uniqueID: 1327934469
+    locked: 0
+  m_RenderingLayers:
+  - Default

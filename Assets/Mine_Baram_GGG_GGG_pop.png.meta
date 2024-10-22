@@ -1,0 +1,3210 @@
+fileFormatVersion: 2
+guid: eb35e28ba89c7ed44b0b696d88118bb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: decorative_0
+  - first:
+      213: 21300002
+    second: decorative_1
+  - first:
+      213: 21300004
+    second: decorative_2
+  - first:
+      213: 21300006
+    second: decorative_3
+  - first:
+      213: 21300008
+    second: decorative_4
+  - first:
+      213: 21300010
+    second: decorative_5
+  - first:
+      213: 21300012
+    second: decorative_6
+  - first:
+      213: 21300014
+    second: decorative_7
+  - first:
+      213: 21300016
+    second: decorative_8
+  - first:
+      213: 21300018
+    second: decorative_9
+  - first:
+      213: 21300020
+    second: decorative_10
+  - first:
+      213: 21300022
+    second: decorative_11
+  - first:
+      213: 21300024
+    second: decorative_12
+  - first:
+      213: 21300026
+    second: decorative_13
+  - first:
+      213: 21300028
+    second: decorative_14
+  - first:
+      213: 21300030
+    second: decorative_15
+  - first:
+      213: 21300032
+    second: decorative_16
+  - first:
+      213: 21300034
+    second: decorative_17
+  - first:
+      213: 21300036
+    second: decorative_18
+  - first:
+      213: 21300038
+    second: decorative_19
+  - first:
+      213: 21300040
+    second: decorative_20
+  - first:
+      213: 21300042
+    second: decorative_21
+  - first:
+      213: 21300044
+    second: decorative_22
+  - first:
+      213: 21300046
+    second: decorative_23
+  - first:
+      213: 21300048
+    second: decorative_24
+  - first:
+      213: 21300050
+    second: decorative_25
+  - first:
+      213: 21300052
+    second: decorative_26
+  - first:
+      213: 21300054
+    second: decorative_27
+  - first:
+      213: 21300056
+    second: decorative_28
+  - first:
+      213: 21300058
+    second: decorative_29
+  - first:
+      213: 21300060
+    second: decorative_30
+  - first:
+      213: 21300062
+    second: decorative_31
+  - first:
+      213: 21300064
+    second: decorative_32
+  - first:
+      213: 21300066
+    second: decorative_33
+  - first:
+      213: 21300068
+    second: decorative_34
+  - first:
+      213: 21300070
+    second: decorative_35
+  - first:
+      213: 21300072
+    second: decorative_36
+  - first:
+      213: 21300074
+    second: decorative_37
+  - first:
+      213: 21300076
+    second: decorative_38
+  - first:
+      213: 21300078
+    second: decorative_39
+  - first:
+      213: 21300080
+    second: decorative_40
+  - first:
+      213: 21300082
+    second: decorative_41
+  - first:
+      213: 21300084
+    second: decorative_42
+  - first:
+      213: 21300086
+    second: decorative_43
+  - first:
+      213: 21300088
+    second: decorative_44
+  - first:
+      213: 21300090
+    second: decorative_45
+  - first:
+      213: 21300092
+    second: decorative_46
+  - first:
+      213: 21300094
+    second: decorative_47
+  - first:
+      213: 21300096
+    second: decorative_48
+  - first:
+      213: 21300098
+    second: decorative_49
+  - first:
+      213: 21300100
+    second: decorative_50
+  - first:
+      213: 21300102
+    second: decorative_51
+  - first:
+      213: 21300104
+    second: decorative_52
+  - first:
+      213: 21300106
+    second: decorative_53
+  - first:
+      213: 21300108
+    second: decorative_54
+  - first:
+      213: 21300110
+    second: decorative_55
+  - first:
+      213: 21300112
+    second: decorative_56
+  - first:
+      213: 21300114
+    second: decorative_57
+  - first:
+      213: 21300116
+    second: decorative_58
+  - first:
+      213: 21300118
+    second: decorative_59
+  - first:
+      213: 21300120
+    second: decorative_60
+  - first:
+      213: 21300122
+    second: decorative_61
+  - first:
+      213: 21300124
+    second: decorative_62
+  - first:
+      213: 21300126
+    second: decorative_63
+  - first:
+      213: 21300128
+    second: decorative_64
+  - first:
+      213: 21300130
+    second: decorative_65
+  - first:
+      213: 21300132
+    second: decorative_66
+  - first:
+      213: 21300134
+    second: decorative_67
+  - first:
+      213: 21300136
+    second: decorative_68
+  - first:
+      213: 21300138
+    second: decorative_69
+  - first:
+      213: 21300140
+    second: decorative_70
+  - first:
+      213: 21300142
+    second: decorative_71
+  - first:
+      213: 21300144
+    second: decorative_72
+  - first:
+      213: 21300146
+    second: decorative_73
+  - first:
+      213: 21300148
+    second: decorative_74
+  - first:
+      213: 21300150
+    second: decorative_75
+  - first:
+      213: 21300152
+    second: decorative_76
+  - first:
+      213: 21300154
+    second: decorative_77
+  - first:
+      213: 21300156
+    second: decorative_78
+  - first:
+      213: 21300158
+    second: decorative_79
+  - first:
+      213: 21300160
+    second: decorative_80
+  - first:
+      213: 21300162
+    second: decorative_81
+  - first:
+      213: 21300164
+    second: decorative_82
+  - first:
+      213: 21300166
+    second: decorative_83
+  - first:
+      213: 21300168
+    second: decorative_84
+  - first:
+      213: 21300170
+    second: decorative_85
+  - first:
+      213: 21300172
+    second: decorative_86
+  - first:
+      213: 21300174
+    second: decorative_87
+  - first:
+      213: 21300176
+    second: decorative_88
+  - first:
+      213: 21300178
+    second: decorative_89
+  - first:
+      213: 21300180
+    second: decorative_90
+  - first:
+      213: 21300182
+    second: decorative_91
+  - first:
+      213: 21300184
+    second: decorative_92
+  - first:
+      213: 21300186
+    second: decorative_93
+  - first:
+      213: 21300188
+    second: decorative_94
+  - first:
+      213: 21300190
+    second: decorative_95
+  - first:
+      213: 21300192
+    second: decorative_96
+  - first:
+      213: 21300194
+    second: decorative_97
+  - first:
+      213: 21300196
+    second: decorative_98
+  - first:
+      213: 21300198
+    second: decorative_99
+  - first:
+      213: 21300200
+    second: decorative_100
+  - first:
+      213: 21300202
+    second: decorative_101
+  - first:
+      213: 21300204
+    second: decorative_102
+  - first:
+      213: 21300206
+    second: decorative_103
+  - first:
+      213: 21300208
+    second: decorative_104
+  - first:
+      213: 21300210
+    second: decorative_105
+  - first:
+      213: 21300212
+    second: decorative_106
+  - first:
+      213: 21300214
+    second: decorative_107
+  - first:
+      213: 21300216
+    second: decorative_108
+  - first:
+      213: 21300218
+    second: decorative_109
+  - first:
+      213: 21300220
+    second: decorative_110
+  - first:
+      213: 21300222
+    second: decorative_111
+  - first:
+      213: 21300224
+    second: decorative_112
+  - first:
+      213: 21300226
+    second: decorative_113
+  - first:
+      213: 21300228
+    second: decorative_114
+  - first:
+      213: 21300230
+    second: decorative_115
+  - first:
+      213: 21300232
+    second: decorative_116
+  - first:
+      213: 21300234
+    second: decorative_117
+  - first:
+      213: 21300236
+    second: decorative_118
+  - first:
+      213: 21300238
+    second: decorative_119
+  - first:
+      213: 21300240
+    second: decorative_120
+  - first:
+      213: 21300242
+    second: decorative_121
+  - first:
+      213: 21300244
+    second: decorative_122
+  - first:
+      213: 21300246
+    second: decorative_123
+  - first:
+      213: 21300248
+    second: decorative_124
+  - first:
+      213: 21300250
+    second: decorative_125
+  - first:
+      213: 21300252
+    second: decorative_126
+  - first:
+      213: 21300254
+    second: decorative_127
+  - first:
+      213: 21300256
+    second: decorative_128
+  - first:
+      213: 21300258
+    second: decorative_129
+  - first:
+      213: 21300260
+    second: decorative_130
+  - first:
+      213: 21300262
+    second: decorative_131
+  - first:
+      213: 21300264
+    second: decorative_132
+  - first:
+      213: 21300266
+    second: decorative_133
+  - first:
+      213: 21300268
+    second: decorative_134
+  - first:
+      213: 21300270
+    second: decorative_135
+  - first:
+      213: 21300272
+    second: decorative_136
+  - first:
+      213: 21300274
+    second: decorative_137
+  - first:
+      213: 21300276
+    second: decorative_138
+  - first:
+      213: 21300278
+    second: decorative_139
+  - first:
+      213: 21300280
+    second: decorative_140
+  - first:
+      213: 21300282
+    second: decorative_141
+  - first:
+      213: 21300284
+    second: decorative_142
+  - first:
+      213: 21300286
+    second: decorative_143
+  - first:
+      213: 21300288
+    second: decorative_144
+  - first:
+      213: 21300290
+    second: decorative_145
+  - first:
+      213: 21300292
+    second: decorative_146
+  - first:
+      213: 21300294
+    second: decorative_147
+  - first:
+      213: 21300296
+    second: decorative_148
+  - first:
+      213: 21300298
+    second: decorative_149
+  - first:
+      213: 21300300
+    second: decorative_150
+  - first:
+      213: 21300302
+    second: decorative_151
+  - first:
+      213: 21300304
+    second: decorative_152
+  - first:
+      213: 21300306
+    second: decorative_153
+  - first:
+      213: 21300308
+    second: decorative_154
+  - first:
+      213: 21300310
+    second: decorative_155
+  - first:
+      213: 21300312
+    second: decorative_156
+  - first:
+      213: 21300314
+    second: decorative_157
+  - first:
+      213: 21300316
+    second: decorative_158
+  - first:
+      213: 21300318
+    second: decorative_159
+  - first:
+      213: 21300320
+    second: decorative_160
+  - first:
+      213: 21300322
+    second: decorative_161
+  - first:
+      213: 21300324
+    second: decorative_162
+  - first:
+      213: 21300326
+    second: decorative_163
+  - first:
+      213: 21300328
+    second: decorative_164
+  - first:
+      213: 21300330
+    second: decorative_165
+  - first:
+      213: 21300332
+    second: decorative_166
+  - first:
+      213: 21300334
+    second: decorative_167
+  - first:
+      213: 21300336
+    second: decorative_168
+  - first:
+      213: 21300338
+    second: decorative_169
+  - first:
+      213: 21300340
+    second: decorative_170
+  - first:
+      213: 21300342
+    second: decorative_171
+  - first:
+      213: 21300344
+    second: decorative_172
+  - first:
+      213: 21300346
+    second: decorative_173
+  - first:
+      213: 21300348
+    second: decorative_174
+  - first:
+      213: 21300350
+    second: decorative_175
+  - first:
+      213: 21300352
+    second: decorative_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 832
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3b1adbf778654d8daed4ad42544e2
+      internalID: 194710193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc1ec8144613b4a98a2da6f334d42f
+      internalID: -2093748769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 832
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9e9dbb50793bf49b3aea69bf0186eb
+      internalID: -1128285094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 832
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8984ad0230d7044c9c6081bdd3774cc
+      internalID: -1493054992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 832
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca8c58d84e1be8409880196192825da
+      internalID: 1927762630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 832
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5cdbc405d210e489be5e542cf84172
+      internalID: -168320668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 704
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c96b507f778c43a04ad24e4908cd6
+      internalID: -133995675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 704
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c213667460245ce469865e3243ceac43
+      internalID: 328208160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 704
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa072e25b8bbe6488cc6e8ebe27c76f
+      internalID: 1071441970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 704
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d2a893b2ac8f4698ff07aa6b480fd
+      internalID: 1382555323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9dcf949034ca44b9ffe83183d4fee2
+      internalID: -1947663178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 704
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49362e60728966c49a358fa997414c6e
+      internalID: 11326959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 576
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d2d79712840da4e92d14e7c5436ef1
+      internalID: -387409898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dcd3911194c4a4fb3a9173bee0e411
+      internalID: -1442301498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 576
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b0733de47da33489934bd90eb60279
+      internalID: 1466554070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a32dabd71af9749b95d5f6576aeb4d
+      internalID: 574531882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f5a4f7a85b55429d8477144500532
+      internalID: -846190563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 448
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c338a92690b74947a3418ea4cfd5323
+      internalID: -378833934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 354
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aadfea1ffd0bd46beacd100b1735d5
+      internalID: 650158001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 365
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59013e44d94d42429951c1bc359d73f
+      internalID: -986504642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 358
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce61618222a27647afe15b63eff2f43
+      internalID: 1348923206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 364
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e09fd6ae6d2bf48b633d1bf366c557
+      internalID: -1835414345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 364
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e597466b17dbebd438af95ddca0844e8
+      internalID: 293863172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 358
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4840f936b0ac46e41aac6b0644cfe392
+      internalID: -357958098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 365
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e0d17fbffe4244f8297843470fbe4f
+      internalID: -1408851992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 354
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04316a77b37e559469997b17fa6ef62d
+      internalID: 2001097530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 324
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccdd2a9a3440dd49b96c3dbf7723f34
+      internalID: -1549583145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 330
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c596567367220042bb7f7a701b6d80d
+      internalID: 151453435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 323
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ea3e55a1d7e14ab3506142b60a58e
+      internalID: 1865019032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_29
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 324
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aece91b12c580248a7e6350d37cd566
+      internalID: 1023092152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 324
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b797a550c020a4dbde07b2234fa311
+      internalID: 1110456559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_31
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 323
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8eb337ab463945b6af9a8a488d843
+      internalID: -388255126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 330
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c96755af212b4eaba00f9cd201196
+      internalID: 1730770438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 324
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd20907d08b5206418356ac8911818b0
+      internalID: -607701376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd868952cec6a5640b648e109f9bad9e
+      internalID: -1155238839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 291
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641397ee1501e7d4dae19c3a13603022
+      internalID: -761715369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 298
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0615f4b2b56a94c915fb55106956c2
+      internalID: -315048333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e513a482f0c774bbeac0217b5f5231
+      internalID: 1311600707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 287
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8c5fae4157ff4d85d4389a60953ce
+      internalID: 79798669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 298
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c23210d93e0ba4194440ba5529c51f
+      internalID: -969664881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 291
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd994c8b151e94ea37e2ef42444f83
+      internalID: 85988737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 297
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc060f29eb0fe438362dd308192f4b
+      internalID: -612424107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef5087a2f38194c87ba719dc0418cb
+      internalID: 1765498582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b9f944cc1fe2408eaf0eb50246757
+      internalID: 98037965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dd5a8f74cb44b4eaa8ea8e005bdc20
+      internalID: 1638567065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 257
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebfd3f33fc2a5048943448b1767971c
+      internalID: 652233554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 257
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8880a20ece6f69c42bd7ff977bff45d8
+      internalID: 1696734585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 263
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5487a3d9074c468779f78b4c44bc6
+      internalID: -1334200647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9671f8f2787d80f428bbd1c2c88da465
+      internalID: 1734622724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 257
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7f23a36910f047b6210e2a65fa329
+      internalID: -1861767561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ee105778878ea4da40a2e294b8d85d
+      internalID: -1488693192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 210
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7572b7dd6e290cc4a8c1c80040b9354e
+      internalID: 136527043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 210
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba5d538123db346a0f3fe66769795b
+      internalID: 12847738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc065c685aa55c4d856e26839fc73c7
+      internalID: -445288944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 207
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0694018dcec50944e824a0dc8bba186e
+      internalID: 1405952850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 210
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e90af988133546b82e4792ebeb48c
+      internalID: 809745316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 210
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a3d35a61645646895911371a5d1aa
+      internalID: -270350601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 192
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a5f728687956b43b2932058316f73b
+      internalID: 1304240100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49efb871dd464c542abedb2d3f75c7f6
+      internalID: -603519224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55fa0f5ef3eefc44b2f9a70a0ecf094
+      internalID: -1765098775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 197
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6185c89e4a7c3e64e97e2f6a77b5338d
+      internalID: -1159903093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168b05be7137e4d488b167aa28636707
+      internalID: -317071376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 196
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdefa3ae4ed17941988a42952e646ee
+      internalID: 290759348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 197
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d71ea433e063a6408bd1f8e34d56ffc
+      internalID: 278505109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 178
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f53588746afa346826d04767b296e1
+      internalID: 689736689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 174
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c167b94be9ba6684194019485b06194a
+      internalID: 1452442666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 166
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645cdcc71029ff74abd6d34201fa59d2
+      internalID: -1638827083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_67
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 178
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65d5c06ae2c1a49ac5959e78a308d3
+      internalID: 401889332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_68
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 174
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25371ff3a43568f46b21c8fa44589e49
+      internalID: -814635750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 166
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd640fa53eb8444ca0d24dc80525668
+      internalID: -1323707163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78046eb686244514bb5ce5b5df3f61f5
+      internalID: 14320193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cfe5500aa52044995482a470cc8efb
+      internalID: -797787424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce998168be57cec479d6df84ead10799
+      internalID: 1940294050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbafbce6b9c72b4a834919ad136d99d
+      internalID: 1262024856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 140
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188edae1c25b133419a202b176c45b8d
+      internalID: -1881569813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 129
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685550881e937bd49a37060dccee00c4
+      internalID: 427144718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 138
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685aabaf4f66c2d4687f6317559f2121
+      internalID: 317491889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080109f250b8384ebb98089ed47a609
+      internalID: 1971576535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_78
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526381031a1a3744a726010c54c5b90
+      internalID: -609403909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a5eeb277fe52c45b804f3698ebc61c
+      internalID: -1674363299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1432727fa954dfa44af98d0bd0e9e22c
+      internalID: 1966653326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 114
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc6d140c24f7e47a4ce6b6e5762511
+      internalID: -261655905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0011e0ab5e6af488258f385e05773b
+      internalID: -1776835380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98200a717cd454884ec742d443bc48
+      internalID: -80028198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_84
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 114
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2bad5ab9d8f6f4b905185a515a077c
+      internalID: 1481708053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 114
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966041abf080c4241828cfa40f32ecce
+      internalID: -1822291961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 111
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3947b6562e90c6468e57c62ebc2d984
+      internalID: 520411364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281acebebb7209498b4fe4ed72f30da
+      internalID: 1973823983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 100
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86afbb7f001b2469691ade2f37ee34
+      internalID: -258585054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_89
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ecaa20c214ed45917d187930f55a4
+      internalID: 10789536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1286452079b1143a5c60e4db2e1610
+      internalID: 1547352846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8883dac987b18984c953f63b179c2288
+      internalID: -1183131603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_92
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416eae939a6154419933a0cd5b2df2c
+      internalID: -1103840693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01065bbfa26f3848b2234e33dd02bf4
+      internalID: -801891152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 78
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e8fa2434bcef9448b91431ce5ffe0c
+      internalID: 1710516119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_95
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 82
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58019c02e1f87b6448cde7da38f6c360
+      internalID: 1521411816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 70
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e07090db2a654ca8787619fb7a3d6
+      internalID: 218268656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e2418005128ab4484355a51916e0d4
+      internalID: 1706651192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 82
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1928b89119b947ad1e932aba8934f
+      internalID: -220039611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_99
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1a6cfbb07ab346bcc28be266ca6d5
+      internalID: -861310319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_100
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7e8bb6aa9ab004eb50141ddf262d2a
+      internalID: 298543547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_101
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a8b0b775a52b4eb822ba33cb9ae34
+      internalID: -423447162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 42
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91a4fff7ada7b408f9ce0056fc9fc7
+      internalID: -959677579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_103
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 33
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f871d5ea68790f4280cc17730e0f3a8
+      internalID: 634198477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_104
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 44
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ef1dd0b608df3419a560ba0b416d5a
+      internalID: -829136062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 42
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2e233bb0460534baac9dbbc4ffe632
+      internalID: 380322639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_106
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc48141753b820d47b61bdfcacf82876
+      internalID: 715670165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine_Baram_GGG_GGG_pop_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94f9b5e8ab30c47a0dec9dd2040a47
+      internalID: -565307207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab7e6476d1a2c3f489785f74ded30269
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mine_Baram_GGG_GGG_pop_0: 194710193
+      Mine_Baram_GGG_GGG_pop_1: -2093748769
+      Mine_Baram_GGG_GGG_pop_10: -1947663178
+      Mine_Baram_GGG_GGG_pop_100: 298543547
+      Mine_Baram_GGG_GGG_pop_101: -423447162
+      Mine_Baram_GGG_GGG_pop_102: -959677579
+      Mine_Baram_GGG_GGG_pop_103: 634198477
+      Mine_Baram_GGG_GGG_pop_104: -829136062
+      Mine_Baram_GGG_GGG_pop_105: 380322639
+      Mine_Baram_GGG_GGG_pop_106: 715670165
+      Mine_Baram_GGG_GGG_pop_107: -565307207
+      Mine_Baram_GGG_GGG_pop_11: 11326959
+      Mine_Baram_GGG_GGG_pop_12: -387409898
+      Mine_Baram_GGG_GGG_pop_13: -1442301498
+      Mine_Baram_GGG_GGG_pop_14: 1466554070
+      Mine_Baram_GGG_GGG_pop_15: 574531882
+      Mine_Baram_GGG_GGG_pop_16: -846190563
+      Mine_Baram_GGG_GGG_pop_17: -378833934
+      Mine_Baram_GGG_GGG_pop_18: 650158001
+      Mine_Baram_GGG_GGG_pop_19: -986504642
+      Mine_Baram_GGG_GGG_pop_2: -1128285094
+      Mine_Baram_GGG_GGG_pop_20: 1348923206
+      Mine_Baram_GGG_GGG_pop_21: -1835414345
+      Mine_Baram_GGG_GGG_pop_22: 293863172
+      Mine_Baram_GGG_GGG_pop_23: -357958098
+      Mine_Baram_GGG_GGG_pop_24: -1408851992
+      Mine_Baram_GGG_GGG_pop_25: 2001097530
+      Mine_Baram_GGG_GGG_pop_26: -1549583145
+      Mine_Baram_GGG_GGG_pop_27: 151453435
+      Mine_Baram_GGG_GGG_pop_28: 1865019032
+      Mine_Baram_GGG_GGG_pop_29: 1023092152
+      Mine_Baram_GGG_GGG_pop_3: -1493054992
+      Mine_Baram_GGG_GGG_pop_30: 1110456559
+      Mine_Baram_GGG_GGG_pop_31: -388255126
+      Mine_Baram_GGG_GGG_pop_32: 1730770438
+      Mine_Baram_GGG_GGG_pop_33: -607701376
+      Mine_Baram_GGG_GGG_pop_34: -1155238839
+      Mine_Baram_GGG_GGG_pop_35: -761715369
+      Mine_Baram_GGG_GGG_pop_36: -315048333
+      Mine_Baram_GGG_GGG_pop_37: 1311600707
+      Mine_Baram_GGG_GGG_pop_38: 79798669
+      Mine_Baram_GGG_GGG_pop_39: -969664881
+      Mine_Baram_GGG_GGG_pop_4: 1927762630
+      Mine_Baram_GGG_GGG_pop_40: 85988737
+      Mine_Baram_GGG_GGG_pop_41: -612424107
+      Mine_Baram_GGG_GGG_pop_42: 1765498582
+      Mine_Baram_GGG_GGG_pop_43: 98037965
+      Mine_Baram_GGG_GGG_pop_44: 1638567065
+      Mine_Baram_GGG_GGG_pop_45: 652233554
+      Mine_Baram_GGG_GGG_pop_46: 1696734585
+      Mine_Baram_GGG_GGG_pop_47: -1334200647
+      Mine_Baram_GGG_GGG_pop_48: 1734622724
+      Mine_Baram_GGG_GGG_pop_49: -1861767561
+      Mine_Baram_GGG_GGG_pop_5: -168320668
+      Mine_Baram_GGG_GGG_pop_50: -1488693192
+      Mine_Baram_GGG_GGG_pop_51: 136527043
+      Mine_Baram_GGG_GGG_pop_52: 12847738
+      Mine_Baram_GGG_GGG_pop_53: -445288944
+      Mine_Baram_GGG_GGG_pop_54: 1405952850
+      Mine_Baram_GGG_GGG_pop_55: 809745316
+      Mine_Baram_GGG_GGG_pop_56: -270350601
+      Mine_Baram_GGG_GGG_pop_57: 1304240100
+      Mine_Baram_GGG_GGG_pop_58: -603519224
+      Mine_Baram_GGG_GGG_pop_59: -1765098775
+      Mine_Baram_GGG_GGG_pop_6: -133995675
+      Mine_Baram_GGG_GGG_pop_60: -1159903093
+      Mine_Baram_GGG_GGG_pop_61: -317071376
+      Mine_Baram_GGG_GGG_pop_62: 290759348
+      Mine_Baram_GGG_GGG_pop_63: 278505109
+      Mine_Baram_GGG_GGG_pop_64: 689736689
+      Mine_Baram_GGG_GGG_pop_65: 1452442666
+      Mine_Baram_GGG_GGG_pop_66: -1638827083
+      Mine_Baram_GGG_GGG_pop_67: 401889332
+      Mine_Baram_GGG_GGG_pop_68: -814635750
+      Mine_Baram_GGG_GGG_pop_69: -1323707163
+      Mine_Baram_GGG_GGG_pop_7: 328208160
+      Mine_Baram_GGG_GGG_pop_70: 14320193
+      Mine_Baram_GGG_GGG_pop_71: -797787424
+      Mine_Baram_GGG_GGG_pop_72: 1940294050
+      Mine_Baram_GGG_GGG_pop_73: 1262024856
+      Mine_Baram_GGG_GGG_pop_74: -1881569813
+      Mine_Baram_GGG_GGG_pop_75: 427144718
+      Mine_Baram_GGG_GGG_pop_76: 317491889
+      Mine_Baram_GGG_GGG_pop_77: 1971576535
+      Mine_Baram_GGG_GGG_pop_78: -609403909
+      Mine_Baram_GGG_GGG_pop_79: -1674363299
+      Mine_Baram_GGG_GGG_pop_8: 1071441970
+      Mine_Baram_GGG_GGG_pop_80: 1966653326
+      Mine_Baram_GGG_GGG_pop_81: -261655905
+      Mine_Baram_GGG_GGG_pop_82: -1776835380
+      Mine_Baram_GGG_GGG_pop_83: -80028198
+      Mine_Baram_GGG_GGG_pop_84: 1481708053
+      Mine_Baram_GGG_GGG_pop_85: -1822291961
+      Mine_Baram_GGG_GGG_pop_86: 520411364
+      Mine_Baram_GGG_GGG_pop_87: 1973823983
+      Mine_Baram_GGG_GGG_pop_88: -258585054
+      Mine_Baram_GGG_GGG_pop_89: 10789536
+      Mine_Baram_GGG_GGG_pop_9: 1382555323
+      Mine_Baram_GGG_GGG_pop_90: 1547352846
+      Mine_Baram_GGG_GGG_pop_91: -1183131603
+      Mine_Baram_GGG_GGG_pop_92: -1103840693
+      Mine_Baram_GGG_GGG_pop_93: -801891152
+      Mine_Baram_GGG_GGG_pop_94: 1710516119
+      Mine_Baram_GGG_GGG_pop_95: 1521411816
+      Mine_Baram_GGG_GGG_pop_96: 218268656
+      Mine_Baram_GGG_GGG_pop_97: 1706651192
+      Mine_Baram_GGG_GGG_pop_98: -220039611
+      Mine_Baram_GGG_GGG_pop_99: -861310319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
