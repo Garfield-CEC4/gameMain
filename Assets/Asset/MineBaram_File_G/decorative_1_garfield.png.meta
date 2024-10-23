@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -196,7 +196,7 @@ TextureImporter:
         width: 70
         height: 99
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -218,7 +218,7 @@ TextureImporter:
         width: 105
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,6 +227,314 @@ TextureImporter:
       bones: []
       spriteID: 9546c203cc2b868438842ed1b7631efe
       internalID: -1412635451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 418
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1f7ce851c8d94bb1028ae04536386
+      internalID: -438444744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 412
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4662bee47df4d4099f97e5a1f58513
+      internalID: -659676574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 482
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad774f1e0d284e479e8b209666da8f8
+      internalID: 1339690946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 353
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d105846454fb324e9c7fa8c90bf6d1e
+      internalID: -1494358438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 358
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8f448cf8664b049aed7a88a261730f
+      internalID: 964169782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 323
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeec7c3f7026a348a3b99fcd8c00d16
+      internalID: -176170422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 320
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e5116e7365a74f80cba10b265d319
+      internalID: 136885134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 352
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149294cbb53d185419b85840751c9bca
+      internalID: 130016532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 350
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92ea4d4713bf2478e71277728f1c19
+      internalID: 1176206198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae9148c149a70e44bdcfa118e8487e1
+      internalID: -1956566076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1447983a5d554e7408cb8ac50670c2de
+      internalID: -644984776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52801b2828c9bfb4589c701745c942d9
+      internalID: 1569039822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 353
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44518ebc7d8dd32468d687942ce17de7
+      internalID: 955063567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decorative_1_garfield_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 419
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114210c7eff4fdb47a3d9fe32d11a830
+      internalID: -1009264846
       vertices: []
       indices: 
       edges: []
@@ -247,6 +555,20 @@ TextureImporter:
     nameFileIdTable:
       decorative_1_garfield_0: -293667108
       decorative_1_garfield_1: -1412635451
+      decorative_1_garfield_10: 1176206198
+      decorative_1_garfield_11: -1956566076
+      decorative_1_garfield_12: -644984776
+      decorative_1_garfield_13: 1569039822
+      decorative_1_garfield_14: 955063567
+      decorative_1_garfield_15: -1009264846
+      decorative_1_garfield_2: -438444744
+      decorative_1_garfield_3: -659676574
+      decorative_1_garfield_4: 1339690946
+      decorative_1_garfield_5: -1494358438
+      decorative_1_garfield_6: 964169782
+      decorative_1_garfield_7: -176170422
+      decorative_1_garfield_8: 136885134
+      decorative_1_garfield_9: 130016532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
