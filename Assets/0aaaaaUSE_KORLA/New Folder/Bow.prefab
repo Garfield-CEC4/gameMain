@@ -510,10 +510,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WeaponName: 
   WeaponCurrentlyActive: 1
-  TriggerMode: 1
-  DelayBeforeUse: 0
+  TriggerMode: 0
+  DelayBeforeUse: 1
   DelayBeforeUseReleaseInterruption: 1
-  TimeBetweenUses: 0.1
+  TimeBetweenUses: 1
   TimeBetweenUsesReleaseInterruption: 1
   UseBurstMode: 0
   BurstLength: 3
@@ -562,16 +562,16 @@ MonoBehaviour:
   WeaponReloadMMFeedback: {fileID: 7855870282212803772}
   WeaponReloadNeededMMFeedback: {fileID: 2745191253298193392}
   InitializeOnStart: 1
-  Interruptable: 0
+  Interruptable: 1
   Flipped: 0
   ProjectileSpawnOffset: {x: 1.98, y: 0.07, z: 0}
   DefaultProjectileDirection: {x: 0, y: 0, z: 1}
   ProjectilesPerShot: 1
   SpawnTransforms: []
   SpawnTransformsMode: 1
-  Spread: {x: 0, y: 0, z: 10}
+  Spread: {x: 0, y: 0, z: 0}
   RotateWeaponOnSpread: 1
-  RandomSpread: 1
+  RandomSpread: 0
   SpawnPosition: {x: 60.354744, y: -31.608068, z: 0}
   SpawnFeedbacks: []
   TestShootButton: 0
@@ -611,7 +611,7 @@ MonoBehaviour:
   WeaponRotationSpeed: 0
   MinimumAngle: -180
   MaximumAngle: 180
-  MinimumMagnitude: 0.2
+  MinimumMagnitude: 0
   ReticleType: 2
   Reticle: {fileID: 1373789777524232, guid: f31b518c2b50cc2479370c46d4485485, type: 3}
   ReticleDistance: 5

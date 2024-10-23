@@ -6,7 +6,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: KoalaSwordAnimatorController
+  m_Name: newBie
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: Idle
@@ -288,7 +288,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 4f18e71b4b156c24c84713fca792c27e, type: 2}
+  m_Motion: {fileID: 7400000, guid: 23c1d636855dded458ffc35174273212, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -311,7 +311,7 @@ AnimatorStateMachine:
     m_Position: {x: 84, y: 120, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102186767477231676}
-    m_Position: {x: 84, y: 192, z: 0}
+    m_Position: {x: 90, y: 190, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102015036188398040}
     m_Position: {x: 84, y: 264, z: 0}
